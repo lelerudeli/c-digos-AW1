@@ -1,2 +1,3 @@
-# c-digos-AW1
-repositorio criado para a discplina de aw1 - HTML
+# Códigos de AW1 
+
+- repo para os html da aula do luk :)
